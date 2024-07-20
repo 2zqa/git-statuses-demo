@@ -1,4 +1,4 @@
-# Example git project
+# Git statuses demo
 
 This shows the different type of file statuses in git.
 
