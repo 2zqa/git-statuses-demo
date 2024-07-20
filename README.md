@@ -15,3 +15,4 @@ Run `make clean` to reset the project to its original state.
 - Modified
 - Staged
 - Ignored
+- Renamed
