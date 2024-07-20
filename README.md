@@ -8,3 +8,4 @@ This shows the different type of file statuses in git.
 - Unmodified
 - Modified
 - Staged
+- Ignored
